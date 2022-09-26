@@ -6,7 +6,7 @@ This pack is a simple merge of Rexus' Real nature (which is in turn an adaptatio
 The track overriding contains:
 //to be done
 ## Credits
-(Mojang (for Minecraft))[https://www.minecraft.net/en-us]
-(OptiFine (since it is needed to load the custom sky))[https://optifine.net/]
-(Tirenay (original maker of the resourcepack))[https://www.curseforge.com/minecraft/texture-packs/real-nature-resource-pack-128x-1-10-x-1-9-x-1-8-x]
-(Rexus (adaptor of the skypack))[https://t.me/Rexus752sProjects/27]
+(Mojang)[https://www.minecraft.net/en-us](for Minecraft)
+(OptiFine)[https://optifine.net/](since it is needed to load the custom sky)
+(Tirenay)[https://www.curseforge.com/minecraft/texture-packs/real-nature-resource-pack-128x-1-10-x-1-9-x-1-8-x](original maker of the resourcepack)
+(Rexus)[https://t.me/Rexus752sProjects/27](adaptor of the skypack)
