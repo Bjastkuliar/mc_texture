@@ -1,6 +1,7 @@
 # Bjastkuliar's Minecraft Resource Pack
 ## Disclaimer
-A simple texture pack that I often use. I do not own any of the files, which all belong to the respetive owners (namely Mojang, OptiFine, Tirenay and Rexus).
+A simple texture pack that I often use. I do not own any of the files, which all belong to the respetive owners (namely Mojang, OptiFine, Tirenay and Rexus).<br>
+**Optifine is compulsory if you wish to have the custom sky**
 ## Content
 This pack is a simple merge of Rexus' Real nature (which is in turn an adaptation of Tirenay's own version) with a simple overriding of some of Minecraft's Music Discs with some custom music.<br>
 The track overriding contains:
